@@ -1,3 +1,4 @@
+import React from "react";
 import { ScreenSt, theme } from "./_calculator_theme";
 import { ThemeProvider } from "@emotion/react";
 

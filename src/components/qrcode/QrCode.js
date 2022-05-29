@@ -1,4 +1,5 @@
 /** @jsxImportSource @emotion/react */
+import React from "react";
 import { css, ThemeProvider } from "@emotion/react";
 import {theme,
   MainCnt,

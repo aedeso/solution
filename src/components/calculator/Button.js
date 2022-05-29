@@ -1,4 +1,4 @@
-import { ButtonSt, theme } from "./_calculator_theme";
+import React, { ButtonSt, theme } from "./_calculator_theme";
 import { ThemeProvider } from "@emotion/react";
 
 export const Button = ({value, onClick}) => {
